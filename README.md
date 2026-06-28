@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my frontend skills<br>🌱 I’m currently learning React JS and Tailwind CSS<br>📫 How to reach me: andreigobres3@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/andwehehe
+🔭 I’m currently working on improving my frontend and backend skills<br>🌱 I’m currently learning Backend development using NodeJS and ExpressJS framework<br>📫 How to reach me: andreigobres3@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/andwehehe
 
 
 ## 🌐 Socials:
