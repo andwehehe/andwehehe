@@ -8,11 +8,6 @@
 # 💻 Tech Stack:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwind,react,nodejs,express,mysql,java,cs,git,github&titles=true&perline=10)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andwehehe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=andwehehe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andwehehe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=andwehehe&icon=4&color=0)](https://visitcount.itsvg.in)
 
